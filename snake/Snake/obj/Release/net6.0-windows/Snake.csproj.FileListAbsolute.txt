@@ -1,0 +1,4 @@
+C:\Users\d monchusi\source\repos\Snake\Snake\obj\Release\net6.0-windows\App.g.cs
+C:\Users\d monchusi\source\repos\Snake\Snake\obj\Release\net6.0-windows\Snake_MarkupCompile.cache
+C:\Users\d monchusi\source\repos\Snake\Snake\obj\Release\net6.0-windows\Snake_MarkupCompile.lref
+C:\Users\d monchusi\source\repos\Snake\Snake\obj\Release\net6.0-windows\MainWindow.g.cs
